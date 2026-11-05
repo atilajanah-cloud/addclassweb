@@ -4,16 +4,16 @@ const links = [
         id: 1, 
         title: "Pesan via WhatsApp (Fast Response)", 
         subtitle: "Order biji kopi atau reservasi meja",
-        url: "https://wa.me/6281234567890?text=Halo%20Kopi%20Seduh%20Nusantara,%20saya%20mau%20pesan", 
+        url: "https://wa.me/6282221384691?text=Halo%20Kopi%20Seduh%20Nusantara,%20saya%20mau%20pesan", 
         category: "order", 
         icon: "💬",
         highlight: true // Tombol utama / promo
     },
     { 
         id: 2, 
-        title: "Katalog & Menu Lengkap (PDF)", 
+        title: "Katalog & Menu Lengkap", 
         subtitle: "Varian beans, espresso based & cemilan",
-        url: "https://example.com/katalog-menu", 
+        url: "menu.html", 
         category: "order", 
         icon: "📖",
         highlight: false
